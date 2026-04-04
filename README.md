@@ -6,6 +6,7 @@ This repository contains beginner-level C++ contains applications developed to p
 ### 1.MINI ATM PROJECT
 This is a basic ATM system using C++. It allows users to login with a password, view balance, withdraw money, deposit money and exit the system. The project focuses on control structures.
 ![mini atm-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ec9d4b55-efe0-4dfc-b3c6-fb9812496f9f)
+
 # Features
 - Password control
 - 3 attempts for login
