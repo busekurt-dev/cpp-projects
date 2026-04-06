@@ -21,7 +21,7 @@ This is a basic ATM system using C++. It allows users to login with a password, 
 
 ### 2.BASIC PASSWORD CHECKER
 A simple C++ console program that checks whether a password is strong based on basic security rules. The program asks the user to re-enter the password until all requirements are met.
-
+![passwordchecker](https://github.com/user-attachments/assets/ba284205-eeab-418a-80a8-11c21560b874)
 #### Features:
 - Minimum 8 characters
 - At least one uppercase
