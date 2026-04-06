@@ -38,7 +38,7 @@ A simple C++ console program that checks whether a password is strong based on b
 ### 3.GRADE CALCULATOR
 This project is a simple C++ console application that calculates the average grade of a student. The program asks the user to enter 10 grades, stores them in an array, calculates the total using a function, and then displays the average.
 
-<img width="1404" height="768" alt="Gemini_Generated_Image_nnt5obnnt5obnnt5" src="https://github.com/user-attachments/assets/da63b662-2064-4160-8916-692e8e13b0a9" />
+![grades_ABF_2](https://github.com/user-attachments/assets/f49466a6-5476-4df1-afe9-2574a7d0dbb8)
 
 #### Features:
 - Accepts 10 grades from the user
