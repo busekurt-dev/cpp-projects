@@ -43,7 +43,7 @@ This project is a simple C++ console application that calculates the average gra
 #### Features:
 - Accepts 10 grades from the user
 - Stores grades using an array
-- Calculates the total using a seperate function
+- Calculates the total using a separate function
 - Display the average grade
 #### Concepts Used:
 - Arrays
