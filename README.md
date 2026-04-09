@@ -50,4 +50,23 @@ This project is a simple C++ console application that calculates the average gra
 - Functions
 - Loops
 
+### 4.TWO PLAYER PENALTY SHOOTOUT GAME
+This is a simple 2-player penalty shootout game using basic C++. Players take turns as shooter and goalkeeper. The game runs for 5 rounds and keeps score to determine the winner.
+
+![penalty_v213](https://github.com/user-attachments/assets/499e8e88-0eff-4104-a0b1-c72df56ca2c5)
+
+#### Features:
+- 2D arrays to represent the goal.
+- Turn-based gameplay(shooter vs goalkeeper)
+- Score tracking
+- 5 round match system
+- 2x3 goal grid
+- Winner announcement
+#### Concepts Used:
+- Loops(for)
+- Conditional statement(if-else)
+- 2D arrays
+- User input/output
+
+
 
